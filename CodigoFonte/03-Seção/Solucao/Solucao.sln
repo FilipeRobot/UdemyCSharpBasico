@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Classe", "01_Classe\01_Classe.csproj", "{06C9CB2E-EC15-45C8-9567-BD014D4873BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Estatico", "02_Estatico\02_Estatico.csproj", "{956CECF4-1CA2-4473-9B56-24E7E27C8F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C9CB2E-EC15-45C8-9567-BD014D4873BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C9CB2E-EC15-45C8-9567-BD014D4873BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C9CB2E-EC15-45C8-9567-BD014D4873BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C9CB2E-EC15-45C8-9567-BD014D4873BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{956CECF4-1CA2-4473-9B56-24E7E27C8F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956CECF4-1CA2-4473-9B56-24E7E27C8F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956CECF4-1CA2-4473-9B56-24E7E27C8F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956CECF4-1CA2-4473-9B56-24E7E27C8F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {548A0FFC-D9A2-4084-A91C-67125E4DC4CA}
+	EndGlobalSection
+EndGlobal
