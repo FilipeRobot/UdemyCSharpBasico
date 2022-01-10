@@ -18,6 +18,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lista dos Exercícios", "Lista dos Exercícios", "{0BF780AC-E0A2-4EE7-9EEB-84193B19CC2C}"
 	ProjectSection(SolutionItems) = preProject
 		Lista dos Exercícios\Exercício - Estrutura de Repetição e Decisão.pdf = Lista dos Exercícios\Exercício - Estrutura de Repetição e Decisão.pdf
+		Teste Branches.txt = Teste Branches.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07", "07\07.csproj", "{DC46C3FA-4C37-461C-82DA-CBD561051A92}"
